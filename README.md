@@ -2,6 +2,11 @@
 
 Pennybase is a sleek, modern web application designed with a focus on user-friendly interfaces and seamless user experiences. This site features a responsive, visually appealing frontend built using the latest web technologies to ensure optimal performance and accessibility across all devices.
 
+
+## Deployed link
+
+https://pennybase.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
