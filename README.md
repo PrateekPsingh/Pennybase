@@ -1,3 +1,7 @@
+
+![PennyBase](https://github.com/PrateekPsingh/Pennybase/assets/97173401/dac35908-2aa7-4864-9e75-92e4c973c96f)
+
+
 # PennyBase
 
 Pennybase is a sleek, modern web application designed with a focus on user-friendly interfaces and seamless user experiences. This site features a responsive, visually appealing frontend built using the latest web technologies to ensure optimal performance and accessibility across all devices.
